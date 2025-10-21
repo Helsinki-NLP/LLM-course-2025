@@ -3,7 +3,7 @@
 **THIS REPOSITORY WILL EVOLVE OVER THE DURATION OF THE COURSE. WE WILL ADD CONTENT AS WE GO.**
 
 
-**Time:** Fall 2024 / Period 2\
+**Time:** Fall 2025 / Period 2\
 **Target group:** Master's students\
 **Teachers:** 
 * Aarne Talman, Accenture, [aarne.talman@helsinki.fi](mailto:aarne.talman@helsinki.fi)
@@ -33,13 +33,13 @@ Challenges you encountered?
 
 | Week | Dates     | Topic / Lecture                                                          | Format                                                                              | Teacher |
 |------|-----------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------|
-| 1    | 29/31.10. | [Introduction to Generative AI and Large Language Models (LLM)](week-1/) | 90 min lecture and 90 min lab                                                       | Aarne   |
-| 2    | 05/07.11. | [Using LLMs and Prompting-based approaches](week-2/)                     | 90 min lecture and 90 min coding lab                                                | Aarne   |
-| 3    | 12/14.11. | [Evaluating LLMs](week-3/)                                               | 90 min lecture and 90 min coding lab                                                | Jussi   |
-| 4    | 19/21.11. | [Fine-tuning LLMs](week-4/)                                              | 90 min lecture and 90 min coding lab                                                | Aarne   |
-| 5    | 26/28.11. | [Retrieval Augmented Generation (RAG)](week-5/)                          | [90 min lecture](https://www.youtube.com/watch?v=1GtBArPD-UA) and 90 min coding lab | Dmitry  |
-| 6    | 03/05.12. | [Use cases and applications of LLMs](week-6/)                            | [90 min lecture](https://www.youtube.com/watch?v=8LkR35wNZnU) and 90 min coding lab                                            | Dmitry  |
-| 7    | 10/12.12. | [Final report preparation](week-7/)                                      | [90 min lecture - 30 min for each lecturer](https://www.youtube.com/watch?v=73UR75Lz9Lg) Students work on their  final report                                                 | Aarne   |
+| 1    | 27/29.10. | [Introduction to Generative AI and Large Language Models (LLM)](week-1/) | 90 min lecture and 90 min lab                                                       | Aarne   |
+| 2    | 03/05.11. | [Using LLMs and Prompting-based approaches](week-2/)                     | 90 min lecture and 90 min coding lab                                                | Aarne   |
+| 3    | 10/12.11. | [Evaluating LLMs](week-3/)                                               | 90 min lecture and 90 min coding lab                                                | Jussi   |
+| 4    | 17/19.11. | [Fine-tuning LLMs](week-4/)                                              | 90 min lecture and 90 min coding lab                                                | Aarne   |
+| 5    | 24/27.11. | [Retrieval Augmented Generation (RAG)](week-5/)                          | [90 min lecture](https://www.youtube.com/watch?v=1GtBArPD-UA) and 90 min coding lab | Dmitry  |
+| 6    | 01/03.12. | [Use cases and applications of LLMs](week-6/)                            | [90 min lecture](https://www.youtube.com/watch?v=8LkR35wNZnU) and 90 min coding lab                                            | Dmitry  |
+| 7    | 18/10.12. | [Final report preparation](week-7/)                                      | [90 min lecture - 30 min for each lecturer](https://www.youtube.com/watch?v=73UR75Lz9Lg) Students work on their  final report                                                 | Aarne   |
 
 
 ### Detailed Syllabus:
@@ -78,6 +78,6 @@ Challenges you encountered?
 * Students work on their final reports, showcasing their understanding of the labs and the concepts learned.
 
 **Group Project submission**
-* Final reports are submitted by 31st December 2024
+* Final reports are submitted by 31st December 2025
 
 Note: This syllabus is subject to change at the discretion of the instructors. Any modifications will be communicated to the students in a timely manner.
