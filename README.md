@@ -6,9 +6,9 @@
 **Time:** Fall 2025 / Period 2\
 **Target group:** Master's students\
 **Teachers:** 
-* Aarne Talman, Accenture, [aarne.talman@helsinki.fi](mailto:aarne.talman@helsinki.fi)
+* Aarne Talman, AMD, [aarne.talman@helsinki.fi](mailto:aarne.talman@helsinki.fi)
 * Dmitry Kan, TomTom, [dmitry.kan@helsinki.fi](mailto:dmitry.kan@helsinki.fi)
-* Jussi Karlgren, Silo AI, [jussi.karlgren@helsinki.fi](mailto:jussi.karlgren@helsinki.fi)
+* Jussi Karlgren, AMD, [jussi.karlgren@helsinki.fi](mailto:jussi.karlgren@helsinki.fi)
 
 **Prerequisites:** 
 * Python coding experience
