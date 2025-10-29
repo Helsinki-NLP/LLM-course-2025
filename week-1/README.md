@@ -1,6 +1,6 @@
 # Introduction to Generative AI and Large Language Models (LLM)
 
-Week 1 is the most theory-heavy week of the course. You can find the lecture slides here: [Week 1 Slides](https://github.com/Helsinki-NLP/LLM-course-2024/blob/main/week-1/LLM-Course%20Lecture%201.pdf).
+Week 1 is the most theory-heavy week of the course. You can find the lecture slides here: [Week 1 Slides](https://github.com/Helsinki-NLP/LLM-course-2025/blob/main/week-1/LLM-Course%20Lecture%201.pdf).
 
 Recording: [week-1/lecture_1.mp4](lecture_1.mp4)
 
