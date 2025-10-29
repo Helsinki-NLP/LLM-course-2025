@@ -29,11 +29,15 @@ What was the motivation behind your solutions?
 What did you learn?
 Challenges you encountered? 
 
+**Final report format:**
+* A pdf document covering all the weeks and labs.
+* A link to a fork of the course repository with your code.
+
 ## Syllabus
 
 | Week | Dates     | Topic / Lecture                                                          | Format                                                                              | Teacher |
 |------|-----------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------|
-| 1    | 27/29.10. | [Introduction to Generative AI and Large Language Models (LLM)](week-1/) | 90 min lecture and 90 min lab                                                       | Aarne   |
+| 1    | 27/29.10. | [Introduction to Generative AI and Large Language Models (LLM)](week-1/) | [90 min lecture](week-1/lecture_1.mp4)                                                        | Aarne   |
 | 2    | 03/05.11. | [Using LLMs and Prompting-based approaches](week-2/)                     | 90 min lecture and 90 min coding lab                                                | Aarne   |
 | 3    | 10/12.11. | [Evaluating LLMs](week-3/)                                               | 90 min lecture and 90 min coding lab                                                | Jussi   |
 | 4    | 17/19.11. | [Fine-tuning LLMs](week-4/)                                              | 90 min lecture and 90 min coding lab                                                | Aarne   |
